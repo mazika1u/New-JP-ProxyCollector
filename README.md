@@ -12,6 +12,6 @@
 
 ## インストール
 ```bash
-git clone https://github.com/<ユーザ名>/JP-ProxyCollector.git
-cd JP-ProxyCollector
+git clone https://github.com/mazika1u/New-JP-ProxyCollector.git
+cd New-JP-ProxyCollector
 pip install -r requirements.txt
