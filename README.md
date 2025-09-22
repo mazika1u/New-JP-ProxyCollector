@@ -15,3 +15,4 @@
 git clone https://github.com/mazika1u/New-JP-ProxyCollector.git
 cd New-JP-ProxyCollector
 pip install -r requirements.txt
+python main.py --sources sources.txt --out all.txt --out-jp jp.txt --concurrency 50 --timeout 8
